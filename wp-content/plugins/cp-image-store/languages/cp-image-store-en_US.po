@@ -1,0 +1,1252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cp-image-store\n"
+"POT-Creation-Date: 2020-08-05 20:25+0200\n"
+"PO-Revision-Date: 2020-08-05 20:25+0200\n"
+"Last-Translator: CodePeople\n"
+"Language-Team: CodePeople\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/affiliateroyale.addon.php:79
+msgid "Affiliate Royale Integration"
+msgstr ""
+
+#: addons/affiliateroyale.addon.php:81
+msgid ""
+"If the Affiliate Royale plugin is installed on the website, and you want "
+"integrate it with the  Store, tick the checkbox:"
+msgstr ""
+
+#: cp-image-store.php:334
+msgid "This is where you can add new image to your store."
+msgstr ""
+
+#: cp-image-store.php:344
+msgid "Images"
+msgstr ""
+
+#: cp-image-store.php:345
+msgid "Image"
+msgstr ""
+
+#: cp-image-store.php:346
+msgid "Add New"
+msgstr ""
+
+#: cp-image-store.php:347
+msgid "Add New Image"
+msgstr ""
+
+#: cp-image-store.php:348
+msgid "Edit Image"
+msgstr ""
+
+#: cp-image-store.php:349
+msgid "New Image"
+msgstr ""
+
+#: cp-image-store.php:350
+msgid "View Image"
+msgstr ""
+
+#: cp-image-store.php:351
+msgid "Search Images"
+msgstr ""
+
+#: cp-image-store.php:352
+msgid "No images found"
+msgstr ""
+
+#: cp-image-store.php:353
+msgid "No images found in Trash"
+msgstr ""
+
+#: cp-image-store.php:354
+msgid "Images for Sale"
+msgstr ""
+
+#: cp-image-store.php:390 cp-image-store.php:392 cp-image-store.php:400
+msgid "Images Categories"
+msgstr ""
+
+#: cp-image-store.php:393
+msgid "Images Category"
+msgstr ""
+
+#: cp-image-store.php:394
+msgid "Search by Categories"
+msgstr ""
+
+#: cp-image-store.php:395
+msgid "All Images Categories"
+msgstr ""
+
+#: cp-image-store.php:396
+msgid "Edit Category"
+msgstr ""
+
+#: cp-image-store.php:397
+msgid "Update Category"
+msgstr ""
+
+#: cp-image-store.php:398
+msgid "Add New Image Category"
+msgstr ""
+
+#: cp-image-store.php:399
+msgid "New Category Name"
+msgstr ""
+
+#: cp-image-store.php:421 cp-image-store.php:423 cp-image-store.php:431
+#: cp-image-store.php:933
+msgid "Authors"
+msgstr ""
+
+#: cp-image-store.php:424 cp-image-store.php:933
+msgid "Author"
+msgstr ""
+
+#: cp-image-store.php:425
+msgid "Search by Authors"
+msgstr ""
+
+#: cp-image-store.php:426
+msgid "All Authors"
+msgstr ""
+
+#: cp-image-store.php:427
+msgid "Edit Author"
+msgstr ""
+
+#: cp-image-store.php:428
+msgid "Update Author"
+msgstr ""
+
+#: cp-image-store.php:429
+msgid "Add New Author"
+msgstr ""
+
+#: cp-image-store.php:430
+msgid "New Author Name"
+msgstr ""
+
+#: cp-image-store.php:451 includes/image.php:65
+msgid "Colors Scheme"
+msgstr ""
+
+#: cp-image-store.php:453 cp-image-store.php:461
+msgid "Colors Schemes"
+msgstr ""
+
+#: cp-image-store.php:454 cp-image-store.php:935
+msgid "Color Scheme"
+msgstr ""
+
+#: cp-image-store.php:455
+msgid "Search by Colors"
+msgstr ""
+
+#: cp-image-store.php:456
+msgid "All Colors Schemes"
+msgstr ""
+
+#: cp-image-store.php:457
+msgid "Edit Color Scheme"
+msgstr ""
+
+#: cp-image-store.php:458
+msgid "Update Color Scheme"
+msgstr ""
+
+#: cp-image-store.php:459
+msgid "Add New Color Scheme"
+msgstr ""
+
+#: cp-image-store.php:460
+msgid "New Color Scheme Name"
+msgstr ""
+
+#: cp-image-store.php:490 cp-image-store.php:492 cp-image-store.php:500
+#: cp-image-store.php:937
+msgid "Types"
+msgstr ""
+
+#: cp-image-store.php:493 cp-image-store.php:937 includes/image.php:66
+msgid "Type"
+msgstr ""
+
+#: cp-image-store.php:494
+msgid "Search Types"
+msgstr ""
+
+#: cp-image-store.php:495
+msgid "All Types"
+msgstr ""
+
+#: cp-image-store.php:496
+msgid "Edit Type"
+msgstr ""
+
+#: cp-image-store.php:497
+msgid "Update Type"
+msgstr ""
+
+#: cp-image-store.php:498
+msgid "Add New Type"
+msgstr ""
+
+#: cp-image-store.php:499
+msgid "New Type Name"
+msgstr ""
+
+#: cp-image-store.php:648
+msgid "Download Page"
+msgstr ""
+
+#: cp-image-store.php:742 cp-image-store.php:2579 includes/image.php:68
+msgid "Date"
+msgstr ""
+
+#: cp-image-store.php:742 pagebuilders/elementor/elementor.pb.php:143
+msgid "Product"
+msgstr ""
+
+#: cp-image-store.php:742
+msgid "Buyer"
+msgstr ""
+
+#: cp-image-store.php:742
+msgid "Amount"
+msgstr ""
+
+#: cp-image-store.php:742 cp-image-store.php:1379
+msgid "Currency"
+msgstr ""
+
+#: cp-image-store.php:742
+msgid "Download link"
+msgstr ""
+
+#: cp-image-store.php:742
+msgid "Notes"
+msgstr ""
+
+#: cp-image-store.php:789
+msgid "You have not sufficient privileges to import images"
+msgstr ""
+
+#: cp-image-store.php:806
+msgid "Image's data"
+msgstr ""
+
+#: cp-image-store.php:838
+msgid "Request custom changes"
+msgstr ""
+
+#: cp-image-store.php:840
+msgid "Help"
+msgstr ""
+
+#: cp-image-store.php:875
+msgid "There are no products that satisfy the block's settings"
+msgstr ""
+
+#: cp-image-store.php:907
+msgid "Insert Image Store"
+msgstr ""
+
+#: cp-image-store.php:909
+msgid "Insert Image Product"
+msgstr ""
+
+#: cp-image-store.php:927 cp-image-store.php:1601
+msgid "Importing Area"
+msgstr ""
+
+#: cp-image-store.php:935
+msgid "Color Schemes"
+msgstr ""
+
+#: cp-image-store.php:939
+msgid "Category"
+msgstr ""
+
+#: cp-image-store.php:939
+msgid "Categories"
+msgstr ""
+
+#: cp-image-store.php:1100
+msgid "Settings Updated"
+msgstr ""
+
+#: cp-image-store.php:1103 cp-image-store.php:1374
+msgid ""
+"If you want to sell the images, must enter the email associated to your "
+"PayPal account."
+msgstr ""
+
+#: cp-image-store.php:1135
+msgid "Store page config"
+msgstr ""
+
+#: cp-image-store.php:1139
+msgid "URL of store page"
+msgstr ""
+
+#: cp-image-store.php:1143
+msgid "Set the URL of page where the store was inserted"
+msgstr ""
+
+#: cp-image-store.php:1147
+msgid "Store layout"
+msgstr ""
+
+#: cp-image-store.php:1150
+msgid "Default layout"
+msgstr ""
+
+#: cp-image-store.php:1169
+msgid "Display a search box"
+msgstr ""
+
+#: cp-image-store.php:1173
+msgid "Allow filtering by type"
+msgstr ""
+
+#: cp-image-store.php:1177
+msgid "Allow filtering by color"
+msgstr ""
+
+#: cp-image-store.php:1181
+msgid "Allow filtering by author"
+msgstr ""
+
+#: cp-image-store.php:1185
+msgid "Allow filtering by category"
+msgstr ""
+
+#: cp-image-store.php:1189
+msgid "Allow sorting results"
+msgstr ""
+
+#: cp-image-store.php:1195
+msgid "Allow pagination"
+msgstr ""
+
+#: cp-image-store.php:1199
+msgid "Items per page"
+msgstr ""
+
+#: cp-image-store.php:1203 includes/wizard.php:74
+msgid "Number of columns"
+msgstr ""
+
+#: cp-image-store.php:1207
+msgid "Uses friendly URLs on products"
+msgstr ""
+
+#: cp-image-store.php:1211
+msgid "Prevent the products pages be cached"
+msgstr ""
+
+#: cp-image-store.php:1215
+msgid "Show buttons for sharing in social networks"
+msgstr ""
+
+#: cp-image-store.php:1217
+msgid ""
+"The option enables the buttons for sharing the products in social networks"
+msgstr ""
+
+#: cp-image-store.php:1221
+msgid "Facebook app id for sharing in Facebook"
+msgstr ""
+
+#: cp-image-store.php:1224
+msgid ""
+"Click the link to generate the Facebook App and get its ID: <a target="
+"\"_blank\" href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a>"
+msgstr ""
+
+#: cp-image-store.php:1236
+msgid "Restrict the access to registered users only"
+msgstr ""
+
+#: cp-image-store.php:1239
+msgid "Display the free download links only for registered users"
+msgstr ""
+
+#: cp-image-store.php:1247
+msgid "Images config"
+msgstr ""
+
+#: cp-image-store.php:1251
+msgid "Units"
+msgstr ""
+
+#: cp-image-store.php:1255
+msgid "Set watermark"
+msgstr ""
+
+#: cp-image-store.php:1257 cp-image-store.php:1263 cp-image-store.php:1403
+#: cp-image-store.php:1433 cp-image-store.php:1469 cp-image-store.php:1513
+msgid ""
+"Available in <a href=\"http://wordpress.dwbooster.com/content-tools/image-"
+"store#download\" target=\"_blank\" >premium version</a> of plugin."
+msgstr ""
+
+#: cp-image-store.php:1261
+msgid "Watermark text"
+msgstr ""
+
+#: cp-image-store.php:1267
+msgid "Watermark position"
+msgstr ""
+
+#: cp-image-store.php:1269
+msgid "at bottom"
+msgstr ""
+
+#: cp-image-store.php:1270
+msgid "at middle"
+msgstr ""
+
+#: cp-image-store.php:1276
+msgid "Thumbnail"
+msgstr ""
+
+#: cp-image-store.php:1281 cp-image-store.php:1297
+msgid "Width"
+msgstr ""
+
+#: cp-image-store.php:1286 cp-image-store.php:1302
+msgid "Height"
+msgstr ""
+
+#: cp-image-store.php:1292
+msgid "Intermediate"
+msgstr ""
+
+#: cp-image-store.php:1309
+msgid "Images license"
+msgstr ""
+
+#: cp-image-store.php:1314
+msgid "Images license title"
+msgstr ""
+
+#: cp-image-store.php:1318
+msgid "Images license description"
+msgstr ""
+
+#: cp-image-store.php:1324
+msgid "Images effects"
+msgstr ""
+
+#: cp-image-store.php:1329
+msgid "Show carousel of related images"
+msgstr ""
+
+#: cp-image-store.php:1335
+msgid "Set carousel autorun"
+msgstr ""
+
+#: cp-image-store.php:1341
+msgid "Carousel transition time"
+msgstr ""
+
+#: cp-image-store.php:1345
+msgid "Display preview on mouse over"
+msgstr ""
+
+#: cp-image-store.php:1356
+msgid "Paypal Payment Configuration"
+msgstr ""
+
+#: cp-image-store.php:1360
+msgid "Enable Paypal Payments?"
+msgstr ""
+
+#: cp-image-store.php:1365
+msgid "Enable Paypal Sandbox?"
+msgstr ""
+
+#: cp-image-store.php:1367
+msgid ""
+"For testing the selling process, use the PayPal sandbox, but don't forget "
+"uncheck it in the final website"
+msgstr ""
+
+#: cp-image-store.php:1372
+msgid "Paypal email"
+msgstr ""
+
+#: cp-image-store.php:1385
+msgid "Currency Symbol"
+msgstr ""
+
+#: cp-image-store.php:1390
+msgid "Paypal language"
+msgstr ""
+
+#: cp-image-store.php:1396
+msgid "Apply taxes (in percentage)"
+msgstr ""
+
+#: cp-image-store.php:1401
+msgid "Use shopping cart"
+msgstr ""
+
+#: cp-image-store.php:1408
+msgid "Download link valid for"
+msgstr ""
+
+#: cp-image-store.php:1409
+msgid "day(s)"
+msgstr ""
+
+#: cp-image-store.php:1413
+msgid "Number of downloads allowed by purchase"
+msgstr ""
+
+#: cp-image-store.php:1418
+msgid "Use safe downloads"
+msgstr ""
+
+#: cp-image-store.php:1427
+msgid "Pack all purchased files as a single ZIP file"
+msgstr ""
+
+#: cp-image-store.php:1431
+msgid ""
+"Your server can't create Zipped files dynamically. Please, contact to your "
+"hosting provider for enable ZipArchive in the PHP script"
+msgstr ""
+
+#: cp-image-store.php:1456
+msgid "Debugging Payment Process"
+msgstr ""
+
+#: cp-image-store.php:1457
+msgid ""
+"(If the checkbox is ticked the plugin will create two new entries in the "
+"error  logs file on your server, with the texts <b>Image Store payment "
+"gateway GET parameters</b> and <b>Image Store payment gateway POST "
+"parameters</b>.  If after a purchase, none of these entries appear in the "
+"error logs file, the payment notification has not reached the plugin's code)"
+msgstr ""
+
+#: cp-image-store.php:1467
+msgid "Discount Settings"
+msgstr ""
+
+#: cp-image-store.php:1470
+msgid "Display discount promotions in the image store page"
+msgstr ""
+
+#: cp-image-store.php:1471
+msgid "Scheduled Discounts"
+msgstr ""
+
+#: cp-image-store.php:1474 cp-image-store.php:1517
+msgid "Percent of discount"
+msgstr ""
+
+#: cp-image-store.php:1475
+msgid "In Sales over than ... "
+msgstr ""
+
+#: cp-image-store.php:1476 cp-image-store.php:1519
+msgid "Valid from dd/mm/yyyy"
+msgstr ""
+
+#: cp-image-store.php:1477 cp-image-store.php:1520
+msgid "Valid to dd/mm/yyyy"
+msgstr ""
+
+#: cp-image-store.php:1478 cp-image-store.php:1501
+msgid "Promotional text"
+msgstr ""
+
+#: cp-image-store.php:1479 cp-image-store.php:1521
+msgid "Status"
+msgstr ""
+
+#: cp-image-store.php:1485 cp-image-store.php:1527
+msgid "Percent of discount (*)"
+msgstr ""
+
+#: cp-image-store.php:1489
+msgid "Valid for sales over than (*)"
+msgstr ""
+
+#: cp-image-store.php:1493 cp-image-store.php:1535
+msgid "Valid from (dd/mm/yyyy)"
+msgstr ""
+
+#: cp-image-store.php:1497 cp-image-store.php:1539
+msgid "Valid to (dd/mm/yyyy)"
+msgstr ""
+
+#: cp-image-store.php:1504
+msgid "Add/Update Discount"
+msgstr ""
+
+#: cp-image-store.php:1511
+msgid "Coupons Settings"
+msgstr ""
+
+#: cp-image-store.php:1514
+msgid "Coupons List"
+msgstr ""
+
+#: cp-image-store.php:1518
+msgid "Coupon"
+msgstr ""
+
+#: cp-image-store.php:1531
+msgid "Coupon (*)"
+msgstr ""
+
+#: cp-image-store.php:1542
+msgid "Add/Update Coupon"
+msgstr ""
+
+#: cp-image-store.php:1549
+msgid "Notification Settings"
+msgstr ""
+
+#: cp-image-store.php:1553
+msgid "Notification \"from\" email"
+msgstr ""
+
+#: cp-image-store.php:1558
+msgid "Send notification to email"
+msgstr ""
+
+#: cp-image-store.php:1563
+msgid "Email subject confirmation to user"
+msgstr ""
+
+#: cp-image-store.php:1568
+msgid "Email confirmation to user"
+msgstr ""
+
+#: cp-image-store.php:1573
+msgid "Email subject notification to admin"
+msgstr ""
+
+#: cp-image-store.php:1578
+msgid "Email notification to admin"
+msgstr ""
+
+#: cp-image-store.php:1588
+msgid "Update Settings"
+msgstr ""
+
+#: cp-image-store.php:1605
+msgid "URL to XML file"
+msgstr ""
+
+#: cp-image-store.php:1608
+msgid "Import"
+msgstr ""
+
+#: cp-image-store.php:1679
+msgid "PayPal data"
+msgstr ""
+
+#: cp-image-store.php:1792
+msgid "Filter the sales reports"
+msgstr ""
+
+#: cp-image-store.php:1795
+msgid "Filter by date"
+msgstr ""
+
+#: cp-image-store.php:1799
+msgid "January"
+msgstr ""
+
+#: cp-image-store.php:1800
+msgid "February"
+msgstr ""
+
+#: cp-image-store.php:1801
+msgid "March"
+msgstr ""
+
+#: cp-image-store.php:1802
+msgid "April"
+msgstr ""
+
+#: cp-image-store.php:1803
+msgid "May"
+msgstr ""
+
+#: cp-image-store.php:1804
+msgid "June"
+msgstr ""
+
+#: cp-image-store.php:1805
+msgid "July"
+msgstr ""
+
+#: cp-image-store.php:1806
+msgid "August"
+msgstr ""
+
+#: cp-image-store.php:1807
+msgid "September"
+msgstr ""
+
+#: cp-image-store.php:1808
+msgid "October"
+msgstr ""
+
+#: cp-image-store.php:1809
+msgid "November"
+msgstr ""
+
+#: cp-image-store.php:1810
+msgid "December"
+msgstr ""
+
+#: cp-image-store.php:1813
+msgid "Buyer: "
+msgstr ""
+
+#: cp-image-store.php:1814
+msgid "From: "
+msgstr ""
+
+#: cp-image-store.php:1827
+msgid "To: "
+msgstr ""
+
+#: cp-image-store.php:1839
+msgid "Search"
+msgstr ""
+
+#: cp-image-store.php:1840
+msgid "Export CSV"
+msgstr ""
+
+#: cp-image-store.php:1844
+msgid "Grouping the sales"
+msgstr ""
+
+#: cp-image-store.php:1845
+msgid "By: "
+msgstr ""
+
+#: cp-image-store.php:1856
+msgid "Display"
+msgstr ""
+
+#: cp-image-store.php:1857
+msgid "Sales"
+msgstr ""
+
+#: cp-image-store.php:1858
+msgid "Amount of sales"
+msgstr ""
+
+#: cp-image-store.php:1859
+msgid "Daily average"
+msgstr ""
+
+#: cp-image-store.php:1866
+msgid "Store sales report"
+msgstr ""
+
+#: cp-image-store.php:1873
+msgid "Sales by country"
+msgstr ""
+
+#: cp-image-store.php:1874
+msgid "Sales by currency"
+msgstr ""
+
+#: cp-image-store.php:1875
+msgid "Sales by product"
+msgstr ""
+
+#: cp-image-store.php:1986
+msgid "There are not sales registered with those filter options"
+msgstr ""
+
+#: cp-image-store.php:2056
+msgid "Insert a Product"
+msgstr ""
+
+#: cp-image-store.php:2057
+msgid "Enter the Image ID:"
+msgstr ""
+
+#: cp-image-store.php:2058
+msgid "Select the Layout:"
+msgstr ""
+
+#: cp-image-store.php:2058
+msgid ""
+"If the product is inserted in a page with other products, it is recommended "
+"the use of Multiple layout."
+msgstr ""
+
+#: cp-image-store.php:2100
+msgid "It is required select at least a file"
+msgstr ""
+
+#: cp-image-store.php:2200
+msgid "Type the email address used to purchase our products"
+msgstr ""
+
+#: cp-image-store.php:2472
+msgid "Top-Ten of filtered images"
+msgstr ""
+
+#: cp-image-store.php:2499
+msgid "Search by"
+msgstr ""
+
+#: cp-image-store.php:2502
+msgid "Search..."
+msgstr ""
+
+#: cp-image-store.php:2514
+msgid "Filter by"
+msgstr ""
+
+#: cp-image-store.php:2519
+msgid " type: "
+msgstr ""
+
+#: cp-image-store.php:2524
+msgid " color scheme: "
+msgstr ""
+
+#: cp-image-store.php:2529
+msgid " authors: "
+msgstr ""
+
+#: cp-image-store.php:2534
+msgid " categories: "
+msgstr ""
+
+#: cp-image-store.php:2542 includes/image.php:669
+msgid "License"
+msgstr ""
+
+#: cp-image-store.php:2574
+msgid "Order by: "
+msgstr ""
+
+#: cp-image-store.php:2577
+msgid "Title"
+msgstr ""
+
+#: cp-image-store.php:2578
+msgid "Popularity"
+msgstr ""
+
+#: cp-image-store.php:2660
+msgid ""
+"The purchase has not being registered yet or the ID is incorrect, please, "
+"try again in 30 minutes."
+msgstr ""
+
+#: cp-image-store.php:2714
+msgid "The store should be processing the purchase. You will be redirected in"
+msgstr ""
+
+#: cp-image-store.php:3115
+msgid "Title:"
+msgstr ""
+
+#: cp-image-store.php:3118
+msgid "Enter the product ID:"
+msgstr ""
+
+#: includes/download.php:95
+msgid "The list of purchased products is empty"
+msgstr ""
+
+#: includes/image.php:60
+msgid "Image Id"
+msgstr ""
+
+#: includes/image.php:61
+msgid "Preview"
+msgstr ""
+
+#: includes/image.php:62
+msgid "Image Name"
+msgstr ""
+
+#: includes/image.php:63
+msgid "Post Author"
+msgstr ""
+
+#: includes/image.php:64
+msgid "Image Author"
+msgstr ""
+
+#: includes/image.php:67
+msgid "Purchases"
+msgstr ""
+
+#: includes/image.php:169
+msgid "Authors:"
+msgstr ""
+
+#: includes/image.php:179
+msgid "Select an Author"
+msgstr ""
+
+#: includes/image.php:187
+msgid "Enter a new author"
+msgstr ""
+
+#: includes/image.php:188
+msgid "Add author"
+msgstr ""
+
+#: includes/image.php:189
+msgid "Select an Author from the list or enter new one"
+msgstr ""
+
+#: includes/image.php:195
+msgid "Type of Image:"
+msgstr ""
+
+#: includes/image.php:204
+msgid "Select an Type"
+msgstr ""
+
+#: includes/image.php:213
+msgid "Enter a new type"
+msgstr ""
+
+#: includes/image.php:214
+msgid "Add type"
+msgstr ""
+
+#: includes/image.php:215
+msgid "Select an Type from the list or enter new one"
+msgstr ""
+
+#: includes/image.php:221
+msgid "Scheme Color:"
+msgstr ""
+
+#: includes/image.php:230
+msgid "Select an Color Scheme"
+msgstr ""
+
+#: includes/image.php:239
+msgid "Enter a new color scheme"
+msgstr ""
+
+#: includes/image.php:240
+msgid "Add color scheme"
+msgstr ""
+
+#: includes/image.php:241
+msgid "Select an Color Scheme from the list or enter new one"
+msgstr ""
+
+#: includes/image.php:263
+msgid "Select images for preview"
+msgstr ""
+
+#: includes/image.php:273
+msgid "Add File"
+msgstr ""
+
+#: includes/image.php:295 includes/image.php:307
+msgid "Remove"
+msgstr ""
+
+#: includes/image.php:596
+msgid "Author(s): "
+msgstr ""
+
+#: includes/image.php:600
+msgid "Type(s): "
+msgstr ""
+
+#: includes/image.php:604
+msgid "Color Scheme(s): "
+msgstr ""
+
+#: includes/image.php:608
+msgid "Category(s): "
+msgstr ""
+
+#: includes/image.php:614
+msgid "Image Version(s): "
+msgstr ""
+
+#: includes/image.php:622
+msgid "download"
+msgstr ""
+
+#: includes/image.php:629
+msgid "Buy Now"
+msgstr ""
+
+#: includes/image.php:826
+msgid "Return to the store page"
+msgstr ""
+
+#: includes/import.php:18 includes/import.php:24
+msgid "The URL to the XML file is required"
+msgstr ""
+
+#: includes/import.php:30
+msgid "The XML file is not accessible"
+msgstr ""
+
+#: includes/import.php:38
+msgid "The file structure is wrong"
+msgstr ""
+
+#: includes/import.php:43
+msgid "The products to import are required"
+msgstr ""
+
+#: includes/import.php:127
+msgid "The intermediate image has not been generated"
+msgstr ""
+
+#: includes/import.php:132
+msgid "The thumbnail image has not been generated"
+msgstr ""
+
+#: includes/import.php:145
+msgid ""
+"Has not been possible create the subfolders in the \"Uploads\" directory for "
+"storing the images"
+msgstr ""
+
+#: includes/import.php:156
+msgid "The images does not exists"
+msgstr ""
+
+#: includes/import.php:162
+msgid "The file type is not supported"
+msgstr ""
+
+#: includes/import.php:170
+msgid "The file cannot be copied to the final location"
+msgstr ""
+
+#: includes/import.php:211
+msgid "All Images Imported"
+msgstr ""
+
+#: includes/wizard.php:27
+msgid "Store Wizard Completed"
+msgstr ""
+
+#: includes/wizard.php:39
+msgid "Images Store Wizard"
+msgstr ""
+
+#: includes/wizard.php:42
+msgid "Step 1 of 2"
+msgstr ""
+
+#: includes/wizard.php:42
+msgid "Payment Gateway"
+msgstr ""
+
+#: includes/wizard.php:47
+msgid "Enter the email address associated to your PayPal account"
+msgstr ""
+
+#: includes/wizard.php:50
+msgid "Email address"
+msgstr ""
+
+#: includes/wizard.php:51
+msgid "Leave in blank if you want distribute your images for free."
+msgstr ""
+
+#: includes/wizard.php:56
+msgid "Next step"
+msgstr ""
+
+#: includes/wizard.php:59
+msgid "Step 2 of 2"
+msgstr ""
+
+#: includes/wizard.php:59
+msgid "Store Page"
+msgstr ""
+
+#: includes/wizard.php:63
+msgid "Enter the shop page's title"
+msgstr ""
+
+#: includes/wizard.php:66
+msgid "Leave in blank if you want to configure the shop's page after."
+msgstr ""
+
+#: includes/wizard.php:70
+msgid "Products per page"
+msgstr ""
+
+#: includes/wizard.php:79
+msgid "Previous step"
+msgstr ""
+
+#: includes/wizard.php:80
+msgid "Save wizard and create my first image"
+msgstr ""
+
+#: includes/wizard.php:81
+msgid "Save wizad and go to the store's settings"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:40 pagebuilders/pagebuilders.php:108
+#: pagebuilders/siteorigin/siteorigin-cpis/siteorigin-cpis.php:14
+msgid "Image Store"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:47
+#: pagebuilders/siteorigin/siteorigin-cpis/siteorigin-cpis.php:24
+msgid "Image Store Shortcode"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:51 pagebuilders/pagebuilders.php:64
+msgid "Shortcode Attributes"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:52 pagebuilders/pagebuilders.php:66
+msgid "Display the images with the term in the image description, or title."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:53 pagebuilders/pagebuilders.php:67
+msgid ""
+"Accepts the slug of image type, and display the images associated with this "
+"type."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:54 pagebuilders/pagebuilders.php:68
+msgid ""
+"Accepts the slug of color, and display the images associated with this color."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:55 pagebuilders/pagebuilders.php:69
+msgid ""
+"Accepts the slug of image author, and display the images that belong to the "
+"author."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:56 pagebuilders/pagebuilders.php:70
+msgid ""
+"Accepts the slug of category, and display the images that belong to the "
+"category."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:57 pagebuilders/pagebuilders.php:71
+msgid ""
+"Displays or hides the images carousel in the store's page. Values allowed 1 "
+"or 0."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:58 pagebuilders/pagebuilders.php:72
+msgid ""
+"Displays or hides the search box in the store's page. Values allowed 1 or 0."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:59 pagebuilders/pagebuilders.php:73
+msgid ""
+"Displays or hides the option for filtering the images for type in the "
+"store's page. Values allowed 1 or 0."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:60 pagebuilders/pagebuilders.php:74
+msgid ""
+"Displays or hides the option for filtering the images for colors in the "
+"store's page. Values allowed 1 or 0."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:61 pagebuilders/pagebuilders.php:75
+msgid ""
+"Displays or hides the option for filtering the images for author in the "
+"store's page. Values allowed 1 or 0."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:62 pagebuilders/pagebuilders.php:76
+msgid ""
+"Displays or hides the option for filtering the images for category in the "
+"store's page. Values allowed 1 or 0."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:63 pagebuilders/pagebuilders.php:77
+msgid ""
+"Displays or hides the box for ordering the images in the store's page. "
+"Values allowed 1 or 0."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:150
+#: pagebuilders/siteorigin/siteorigin-cpis-product/siteorigin-cpis-product.php:24
+msgid "Enter the product's id"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:152
+msgid "Enter the id of a published product."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:159
+#: pagebuilders/siteorigin/siteorigin-cpis-product/siteorigin-cpis-product.php:28
+msgid "Select the product's layout"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:163
+msgid "Like in the store's page"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:164
+msgid "Like in the product's page"
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:167
+msgid "Appearance applied to the product."
+msgstr ""
+
+#: pagebuilders/elementor/elementor.pb.php:202
+msgid "The product's id is required."
+msgstr ""
+
+#: pagebuilders/siteorigin/siteorigin-cpis-product/siteorigin-cpis-product.php:14
+msgid "Image Store Product"
+msgstr ""
+
+#: pagebuilders/siteorigin/siteorigin-cpis-product/siteorigin-cpis-product.php:16
+msgid "Inserts the Product shortcode"
+msgstr ""
+
+#: pagebuilders/siteorigin/siteorigin-cpis-product/siteorigin-cpis-product.php:31
+msgid "Short"
+msgstr ""
+
+#: pagebuilders/siteorigin/siteorigin-cpis-product/siteorigin-cpis-product.php:32
+msgid "Completed"
+msgstr ""
+
+#: pagebuilders/siteorigin/siteorigin-cpis/siteorigin-cpis.php:16
+msgid "Inserts the Image Store shortcode"
+msgstr ""
